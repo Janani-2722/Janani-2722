@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Janani-2722
 - 👀 I’m interested in AI and data Science/Data Analytics.
 - 🌱 I’m currently learning AI and Data Analytics too.
-- 📫 How to reach me through my profile.
+- 📫 Reach me through my profile.
 
 
 <!---
